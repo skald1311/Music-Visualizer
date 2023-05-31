@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/skald1311/Music-Visualizer">
-    <img src="https://github.com/skald1311/Mapty/assets/84189062/a148be62-a844-4352-9f11-5890d0628279" alt="Logo" width="100" height="100">
+    <img src="!https://github.com/skald1311/Music-Visualizer/assets/84189062/fd07a07d-4b86-4216-91ed-96ad3eaff27a" alt="Logo" width="100" height="100">
   </a>
 
 
