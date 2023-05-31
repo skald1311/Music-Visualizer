@@ -47,10 +47,7 @@
       </ul>
     </li>
     <li>
-      <a href="#try-it-out!">Live demo</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
+      <a href="#live-demo">Live demo</a>
     </li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -83,7 +80,7 @@
 
 
 <!-- GETTING STARTED -->
-## Try it out!
+## Live Demo
 
 **LIVE DEMO AVAILABLE [HERE](https://skald1311.github.io/music-visualizer/)**
 
