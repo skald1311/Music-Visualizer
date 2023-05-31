@@ -23,7 +23,7 @@
 <h3 align="center">Music Visualizer</h3>
 
   <p align="center">
-    An app to map your workouts
+    An audio visualizer app made with p5js
     <br />
     <a href="https://github.com/skald1311/Music-Visualizer/"><strong>LIVE DEMO</strong></a>
     <br />
