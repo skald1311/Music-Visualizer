@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/x-icon" href="src/img/favicon.png" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="src/css/style.css" />
+    <script src="p5js/p5.min.js"></script>
+    <script src="p5js/p5.sound.min.js"></script>
+    <script defer src="src/js/controller.js"></script>
+
+    <title>Music Visualizer</title>
+  </head>
+  <body>
+    <div class="main--container">
+      <!-- Discontinued idea
+      <form action="" class="search--bar">
+        <input
+          class="form__input--url"
+          placeholder="Input Youtube URL:"
+          type="text"
+        />
+        <button type="submit"><img src="src/img/search.png" /></button>
+      </form> -->
+      <div class="drop-zone">
+        <span class="drop-zone__prompt"
+          >Drag and drop an mp3 file here and press play</span
+        >
+        <input type="file" name="localSong" class="drop-zone__input" />
+      </div>
+
+      <div class="controls">
+        <button class="playpause">
+          <img src="/src/img/play pause.png" alt="play pause button" />
+        </button>
+      </div>
+    </div>
+    <div class="loader--container"></div>
+    <div class="predownloaded--songs--container">
+      <label for="predownloaded--songs">Load a predownloaded song:</label>
+      <select
+        class="predownloaded--songs"
+        name="songlist"
+        form="predownloaded--songs"
+      >
+        <option value="none">None</option>
+        <option value="demo library/on my way - alan walker.mp3">
+          On My Way - Alan Walker
+        </option>
+        <option value="demo library/fake love - phil smooth.mp3">
+          Fake Love - Phil Smooth
+        </option>
+        <option value="demo library/fatality - kordhell.mp3">
+          Fatality - Kordhell
+        </option>
+        <option value="demo library/beautiful now - zedd, j. bellion.mp3">
+          Beautiful Now - Zedd, J. Bellion
+        </option>
+        <option value="demo library/unstoppable - sia.mp3">
+          Unstoppable - Sia
+        </option>
+      </select>
+      <button class="loadsong">Load</button>
+    </div>
+    <div class="footer">
+      <a href="https://github.com"
+        ><img class="resize" src="src/img/github logo.png"
+      /></a>
+      <a href="https://www.linkedin.com/in/hmd1311/"
+        ><img class="resize" src="src/img/linkedin logo.png"
+      /></a>
+    </div>
+  </body>
+</html>

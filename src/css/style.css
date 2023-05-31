@@ -1,0 +1,130 @@
+:root {
+  --primary-color: #0e101a;
+  --secondary-color: #ffffff;
+  --primary-button: #0d8065;
+  --secondary-button: #f0f2fc;
+  --accent: #aff2ea;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Manrope", sans-serif;
+}
+body {
+  color: var(--primary-color);
+  font-weight: 400;
+  line-height: 1.6;
+  height: 100vh;
+  overscroll-behavior-y: none;
+
+  background-color: --secondary-color;
+  padding: 2.5rem;
+  display: flex;
+  overflow: hidden;
+}
+
+/** Input Field **/
+.main--container {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.hidden {
+  display: none;
+}
+
+.controls {
+  margin-top: 10px;
+}
+.controls button img {
+  width: 95px;
+}
+.controls button {
+  border: 0;
+  border-radius: 50%;
+
+  outline: none;
+  background: transparent;
+  width: 95px;
+  height: 95px;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.predownloaded--songs--container {
+  font-size: 20px;
+  color: var(--secondary-color);
+  text-align: right;
+}
+
+.loader--container {
+  font-size: 20px;
+  color: var(--secondary-color);
+  text-align: center;
+}
+
+.drop-zone {
+  max-width: 200px;
+  height: 200px;
+  padding: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--secondary-color);
+  cursor: pointer;
+  border: 4px dashed var(--primary-button);
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+.drop-zone--over {
+  border-style: solid;
+}
+
+.drop-zone__input {
+  display: none;
+}
+
+.drop-zone__thumb {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #cccccc;
+  background-size: cover;
+  position: relative;
+}
+
+.drop-zone__thumb::after {
+  content: attr(data-label);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 5px 0;
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0.75);
+  font-size: 14px;
+  text-align: center;
+}
+
+.footer {
+  color: #ffffff;
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
+}
+
+.resize {
+  width: 35px;
+  height: auto;
+  padding: 2.5px;
+}
