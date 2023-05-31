@@ -147,7 +147,7 @@ Credit to Alan Walker, Phil Smooth, Kordhell, Sia, and Zedd for their songs in t
 
 Duong Hoang - [LinkedIn](https://www.linkedin.com/in/hmd1311/)
 
-Project Link: [https://github.com/skald1311/mapty](https://github.com/skald1311/Music-Visualizer)
+Project Link: [https://github.com/skald1311/Music-Visualizer](https://github.com/skald1311/Music-Visualizer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
