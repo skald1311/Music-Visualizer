@@ -85,7 +85,7 @@
 <!-- GETTING STARTED -->
 ## Try it out!
 
-**LIVE DEMO AVAILABLE [HERE](https://skald1311.github.io/mapty/](https://skald1311.github.io/music-visualizer/)**
+**LIVE DEMO AVAILABLE [HERE](https://skald1311.github.io/music-visualizer/)**
 
 
 <!-- CONTRIBUTING -->
