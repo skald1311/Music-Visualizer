@@ -20,7 +20,7 @@
 
 
 
-<h3 align="center">Mapty</h3>
+<h3 align="center">Music Visualizer</h3>
 
   <p align="center">
     An app to map your workouts
