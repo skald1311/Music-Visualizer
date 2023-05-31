@@ -68,6 +68,8 @@ How to use: Users have two options - load the audio themselves or load the predo
 
  * Loading the audio yourself: The application only takes in .mp3 files. Download an .mp3 file. Drag and drop that .mp3 file into the drop zone. Click play/pause. Usually, you will have to wait a little for the file to load. So if it doesn't work the first time you click play, click again after a few seconds.
 
+![image](https://github.com/skald1311/Music-Visualizer/assets/84189062/4367e608-22b6-4bff-ae6c-f5a067b4224f)
+
 
 
 
@@ -148,8 +150,3 @@ Project Link: [https://github.com/skald1311/Music-Visualizer](https://github.com
 [CSS-url]: https://en.wikipedia.org/wiki/CSS
 [logo]: https://github.com/skald1311/Music-Visualizer/assets/84189062/97092b3b-4f77-4a86-8c4e-fdfa5b2fafe1
 
-
-
-url thing didn't work as for some reasons I couldn't import mongodb
-and may have copyright issues
-=> switched to drag and drop upload mp3
