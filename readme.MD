@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/skald1311/Music-Visualizer">
-    <img src="!![favicon](https://github.com/skald1311/Music-Visualizer/assets/84189062/14873b98-43e3-41b5-8fce-fb8ceea24593)" alt="Logo" width="100" height="100">
+    <img src="![favicon](https://github.com/skald1311/Music-Visualizer/assets/84189062/14873b98-43e3-41b5-8fce-fb8ceea24593)" alt="Logo" width="100" height="100">
   </a>
 
 
