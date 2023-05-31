@@ -132,8 +132,8 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License.
-Users uploading mp3s to the site should have legal permission in doing so.
+Distributed under the MIT License.\n
+Users uploading mp3s to the site should have legal permission in doing so.\n
 Credit to Alan Walker, Phil Smooth, Kordhell, Sia, and Zedd for their songs in the predownloaded section.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
