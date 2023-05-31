@@ -25,7 +25,7 @@
   <p align="center">
     An audio visualizer app made with p5js
     <br />
-    <a href="https://github.com/skald1311/Music-Visualizer/"><strong>LIVE DEMO</strong></a>
+    <a href="https://skald1311.github.io/music-visualizer/"><strong>LIVE DEMO</strong></a>
     <br />
     <br />
     <a href="https://github.com/skald1311/Music-Visualizer/issues">Report Bug</a>
@@ -47,7 +47,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#try-it-out!">Live demo</a>
       <ul>
         <li><a href="#installation">Installation</a></li>
       </ul>
@@ -83,32 +83,9 @@
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Try it out!
 
-**LIVE DEMO AVAILABLE [HERE](https://skald1311.github.io/mapty/)**
-
-To get a local copy up and running follow these simple example steps.
-
-### Installation
-
-1. Click the green button
-
-![image](https://user-images.githubusercontent.com/84189062/210023644-49f6ee47-b8aa-479d-b192-c9985ef913cd.png)
-   
-   
-2. Download ZIP
-
-   ![image](https://user-images.githubusercontent.com/84189062/210023664-4d06ef4a-71a7-444d-9778-bf21c8ed30ae.png)
-  
-  
-3. Extract the file
-   ```sh
-   Make sure all of the files are in the same folder!!!
-   ```
-4. Run the file named 'index'
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+**LIVE DEMO AVAILABLE [HERE](https://skald1311.github.io/mapty/](https://skald1311.github.io/music-visualizer/)**
 
 
 <!-- CONTRIBUTING -->
