@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/skald1311/Music-Visualizer">
-    <img src="![favicon](https://github.com/skald1311/Music-Visualizer/assets/84189062/14873b98-43e3-41b5-8fce-fb8ceea24593)" alt="Logo" width="100" height="100">
+    <img src="https://github.com/skald1311/Music-Visualizer/assets/84189062/14873b98-43e3-41b5-8fce-fb8ceea24593" alt="Logo" width="100" height="100">
   </a>
 
 
@@ -165,7 +165,8 @@ Project Link: [https://github.com/skald1311/mapty](https://github.com/skald1311/
 [HTML5-url]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [CSS-url]: https://en.wikipedia.org/wiki/CSS
-[maptylogo]: https://github.com/skald1311/Mapty/assets/84189062/309de027-a9ca-4433-8a92-58ab1f1e352b
+[logo]: https://github.com/skald1311/Music-Visualizer/assets/84189062/97092b3b-4f77-4a86-8c4e-fdfa5b2fafe1
+
 
 
 url thing didn't work as for some reasons I couldn't import mongodb
