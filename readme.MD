@@ -64,9 +64,9 @@ Music Visualizer is a VanillaJS application created using p5js library, which pr
 
 How to use: Users have two options - load the audio themselves or load the predownloaded audio.
 
-  Loading the predownloaded songs: In the top right corner, choose a song that you would like to demo. Click Load. A progress bar will appear with the loading progress. It will disappear after the song is loaded successfully. Click the play/pause button.
+ * Loading the predownloaded songs: In the top right corner, choose a song that you would like to demo. Click Load. A progress bar will appear with the loading progress. It will disappear after the song is loaded successfully. Click the play/pause button.
 
-  Loading the audio yourself: The application only takes in .mp3 files. Download an .mp3 file. Drag and drop that .mp3 file into the drop zone. Click play/pause. Usually, you will have to wait a little for the file to load. So if it doesn't work the first time you click play, click again after a few seconds.
+ * Loading the audio yourself: The application only takes in .mp3 files. Download an .mp3 file. Drag and drop that .mp3 file into the drop zone. Click play/pause. Usually, you will have to wait a little for the file to load. So if it doesn't work the first time you click play, click again after a few seconds.
 
 
 
